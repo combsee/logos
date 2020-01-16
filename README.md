@@ -1,3 +1,3 @@
-# logo
+# logos
 
 Official Combsee logos
